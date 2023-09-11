@@ -1,2 +1,2 @@
-sudo docker build . -t myapp
-sudo docker run myapp
+docker build . -t myapp
+docker run myapp
