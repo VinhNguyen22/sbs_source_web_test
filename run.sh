@@ -1,2 +1,2 @@
 docker build . -t myapp
-docker run myapp
+docker run -d myapp
